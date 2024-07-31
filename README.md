@@ -44,6 +44,9 @@ I am a fresher in the field of data science and data analysis, eager to apply my
 - **LangChain**
 - **Hugging Face**
 
+### Cloud Computing
+- **AWS**
+
 ### MLOps Tools
 - **Docker**
 - **CI/CD**
