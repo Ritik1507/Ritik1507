@@ -1,6 +1,6 @@
 # Welcome to My Data Science Portfolio
 
-Hello! I'm Ritik, a passionate and enthusiastic data scientist and data analyst. I am currently in my final year, persuing a B.Tech degree in Information Technology from NIT, Raipur. This repository showcases my projects, skills, and interests in data science and analytics.
+Hello! I'm Ritik. I am currently in my final year, persuing a B.Tech degree in Information Technology from NIT, Raipur. This repository showcases my projects, skills, and interests in data science and analytics.
 
 ## About Me
 
