@@ -30,7 +30,6 @@ I am a fresher in the field of data science and data analysis, eager to apply my
 
 ### Generative AI
 - **Natural Language Processing (NLP)**
-- **Generative Adversarial Networks (GANs)**
 - **Transformers**
 - **Text Generation**
 - **LLM**
